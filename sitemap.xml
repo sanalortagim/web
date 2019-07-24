@@ -69,73 +69,9 @@
             <loc>http://localhost:4000/kategori/webmaster/</loc>
         </url>
     
-        <url>
-            <loc>http://localhost:4000/sayfa/2/</loc>
-        </url>
-    
     
         <url>
             <loc>http://localhost:4000/firewall-nedir/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/far-far-away-behind-the-word-mountains/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/li-europan-lingues-es-membres/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/sed-ut-perspiciatis-unde-omnis-iste-natus/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/box-shadow-ou-filter-drop-shadow/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/por-que-o-sketch-vale-3-tanques-de-gasolina/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/como-fazer-um-hello-world-com-vue-js-2/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/minhas-primeiras-5-impressoes-sobre-django/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/seja-bem-vindo/</loc>
         </url>
   
 </urlset>
