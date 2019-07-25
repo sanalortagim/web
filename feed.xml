@@ -5,19 +5,13 @@
     <description>Computer Technologies</description>
     <link>http://arifsaban.com.tr/</link>
     <atom:link href="http://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2019 11:34:54 +0300</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2019 11:34:54 +0300</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>No Such File or Directory Hatası ve Çözümü</title>
-        <description>&lt;p&gt;Açıklamada bahsettiğim gibi sisteminiz 64 bit ve kullandığınız uygulama veya servis 32 bit ile çalışıyordur.Bu hatanın çözümü glibc 32 bit paketini kurmaktır.Kurduğunuzda başarılı bir şekilde uygulamanızı veya servisini çalıştırabileceksiniz.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Çözüm Yolu:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Linux üzerinden ilgili glibc paketini yüklenilir. Eğer linux deposu kullanmıyor ise glibc rpm paketi üzerinden işletim sisteminize ait paketi bulup kurarak sorunu çözebilirsiniz.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;CentOS&lt;/strong&gt;/&lt;strong&gt;RedHat&lt;/strong&gt;/&lt;strong&gt;Fedora&lt;/strong&gt;/&lt;strong&gt;Suse&lt;/strong&gt;/&lt;strong&gt;Mandriva&lt;/strong&gt; İşletim Sistemleri İçin :&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;yum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;glibc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i686&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;/&lt;strong&gt;Ubuntu&lt;/strong&gt;/&lt;strong&gt;Mint&lt;/strong&gt;/&lt;strong&gt;Crunchbang&lt;/strong&gt; İşletim Sistemleri İçin:&lt;/p&gt; &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;apt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ia32&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;libs&lt;/span&gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;p&gt;İşletim sistemleri ve komutları karşısındadır.Kullandığınız işletim...</description>
-        <pubDate>Thu, 25 Jul 2019 10:33:52 +0300</pubDate>
+        <description>Linuxda her an karşılaşabileceğimiz bir sorundur. Bu hatanın çıkmasının sebebi sisteminiz 64 bit olmasıdır. Çalıştıracağınız uygulama 32 bit vasıtası ile çalışıyordur. Bu yüzden çalıştırmayacaktır bunun çözümünü göstereceğiz.</description>
+        <pubDate>25/07/2019</pubDate>
         <link>http://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</link>
         <guid isPermaLink="true">http://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</guid>
-        
-        <category>linux</category>
-        
         
         <category>linux</category>
         
@@ -25,13 +19,10 @@
     
       <item>
         <title>Sosyal Medya Saldırılarına Alınabilecek Önlemler</title>
-        <description>&lt;p&gt;Adınıza ve mevcut profil resminize benzer tamamen farklı bir hesap oluşturan kötü niyetli bir kişiyi konu alarak bu örnek üzerinden alınabilecek önlemler anlatılmıştır.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Arkadaşını ve Gelen bağlantı adreslerini gözden geçirin&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Sosyal medya aracılığıyla yalnızca tanıdığınız, arkadaş olduğunuz veya en azından güvenebileceğiniz insanlarla bağlantı halinde olmanız çok önemli bir durumdur.Dolandırıcılar genellikle insanlara arkadaşlık istekleri göndererek yaşamları hakkında daha fazla bilgi edinebilir, bu sayede onlara karşı zararlı bir şekilde yararlanabilirler.&lt;/p&gt; &lt;p&gt;Bu problemi çözdükten sonra % 100 emin olmadığınız bağlantılara giriş yapmayın ve önceden önleminizi alınız.Linke tıkladıktan sonra her an bilgilerinizi alabilme olanağı olabilir.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. Her an aktif olun&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Size ait olmayan...</description>
-        <pubDate>Wed, 24 Jul 2019 15:26:48 +0300</pubDate>
+        <description>Kimse çevrimiçi sanal internet aleminden gelen tehditlerden korunmaz.Bu sebepten önlem olarak alabileceğimiz durumları adım adım belirtmeye çalıştık.</description>
+        <pubDate>24/07/2019</pubDate>
         <link>http://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</link>
         <guid isPermaLink="true">http://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</guid>
-        
-        <category>guvenlik</category>
-        
         
         <category>guvenlik</category>
         
@@ -39,13 +30,10 @@
     
       <item>
         <title>Firewall Nedir ?</title>
-        <description>&lt;p&gt;Genel olarak, bir bilgisayar güvenlik duvarı, özel bir ağa ya da özel bir ağdan yetkisiz erişimi engelleyen bir yazılım programıdır. Güvenlik duvarları, LAN veya Internet gibi bir ağa bağlı bilgisayarların güvenliğini artırmak için kullanılabilecek araçlardır. Ağınız için kapsamlı bir güvenlik çerçevesinin ayrılmaz bir parçasıdır.&lt;/p&gt; &lt;p&gt;Bir güvenlik duvarı, bilgisayarınızda izinli olup olmadığının belirlenmesi için, güvenlik duvarının her iki tarafına ulaşan – her bir “paket” bilgisini bilgisayardan gelen veya giden bir “paket duvarı” nı inceleyen bir “kod duvarı” kullanarak bilgisayarınızı kesinlikle Internet’ten yalıtır.Güvenlik duvarları, ne tür sistem işlevlerinin ve işlemlerinin ağ kaynaklarına erişime sahip olduğu konusunda ayrıntılı denetim sağlayarak güvenliği daha da...</description>
-        <pubDate>Sat, 20 Jul 2019 14:26:40 +0300</pubDate>
+        <description>Firewall Güvenlik Duvarı bir hayli değişik filtreleme özelliği ile bilgisayar ve ağın gelen ve giden paketler olmak üzere internet trafiğini kontrol altında tutmaktadır.. İp filtreleme, Port Filtreleme, Web Fitreleme, içerik filtreleme bunlardan birkaçıdır.</description>
+        <pubDate>20/07/2019</pubDate>
         <link>http://arifsaban.com.tr/firewall-nedir/</link>
         <guid isPermaLink="true">http://arifsaban.com.tr/firewall-nedir/</guid>
-        
-        <category>bilisim-teknolojileri</category>
-        
         
         <category>bilisim-teknolojileri</category>
         
