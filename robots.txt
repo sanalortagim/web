@@ -1,12 +1,12 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://arifsaban.com.tr/sitemap.xml
+
 User-agent: *
 Disallow: /hakkimda
 Disallow: /iletisim
 Disallow: /etiketler
-
-
 
 User-agent: ia_archiver
 Disallow: /
