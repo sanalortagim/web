@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Centos Update Komutu",
+      "tags"     : "linux",
+      "categories" : "linux",
+      "url"      : "/centos-update-komutu/",
+      "date"     : "27/07/2019"
+    } ,
+  
+    {
       "title"    : "No Such File or Directory Hatası ve Çözümü",
       "tags"     : "linux",
       "categories" : "linux",
