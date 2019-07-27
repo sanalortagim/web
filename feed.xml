@@ -7,6 +7,17 @@
     <atom:link href="http://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
+        <title>Centos Wget Kurulumu</title>
+        <description>Wget kurulumu nasıl yapılır ? Wget kurulum kodu nedir ?</description>
+        <pubDate>27/07/2019</pubDate>
+        <link>http://arifsaban.com.tr/centos-wget-kurulumu/</link>
+        <guid isPermaLink="true">http://arifsaban.com.tr/centos-wget-kurulumu/</guid>
+        
+        <category>linux</category>
+        
+      </item>
+    
+      <item>
         <title>Centos Update Komutu</title>
         <description>Centos sistemimizi nasıl güncelleştirebiliriz ? Komutu Nedir ?</description>
         <pubDate>27/07/2019</pubDate>
