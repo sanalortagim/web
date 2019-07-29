@@ -4,7 +4,7 @@ en:
   tomorrow: 'Yarın'
   past: '%{date_range} önce'
   future: '%{date_range}'
-  last_word_connector: 'and'
+  last_word_connector: ''
   words_connector: ', '
   years:
     one: '1 yıl'
