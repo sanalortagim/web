@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Linux SSH Portu Değiştirme",
+      "tags"     : "#linux",
+      "categories" : "linux",
+      "url"      : "/linux-ssh-portu-degistirme/",
+      "date"     : "29/07/2019"
+    } ,
+  
+    {
       "title"    : "Centos Wget Kurulumu",
       "tags"     : "#linux",
       "categories" : "linux",
