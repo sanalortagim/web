@@ -8,6 +8,7 @@ Disallow: /hakkimda
 Disallow: /iletisim
 Disallow: /etiketler
 Disallow: /kategori
+Disallow: /gizlilik-politikasi
 
 User-agent: ia_archiver
 Disallow: /
