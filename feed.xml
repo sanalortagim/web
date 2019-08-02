@@ -7,6 +7,17 @@
     <atom:link href="http://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
+        <title>Network Nedir ?</title>
+        <description></description>
+        <pubDate>02/08/2019</pubDate>
+        <link>http://arifsaban.com.tr/network-nedir/</link>
+        <guid isPermaLink="true">http://arifsaban.com.tr/network-nedir/</guid>
+        
+        <category>bilisim-teknolojileri</category>
+        
+      </item>
+    
+      <item>
         <title>Linux SSH Portu Değiştirme</title>
         <description>Linux SSH Varsayılan Portu Nasıl Değiştirebiliriz ?</description>
         <pubDate>29/07/2019</pubDate>

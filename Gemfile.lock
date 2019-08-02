@@ -45,10 +45,10 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-timeago (0.13.1)
-      mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll_image_encode (0.0.4)
+      mimemagic (>= 0.2.0)
     jemoji (0.11.0)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
@@ -60,7 +60,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mini_i18n (0.8.0)
+    mimemagic (0.3.3)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
     multi_json (1.13.1)
@@ -108,7 +108,7 @@ DEPENDENCIES
   jekyll
   jekyll-admin
   jekyll-paginate
-  jekyll-timeago
+  jekyll_image_encode
   jemoji
   rouge
 
