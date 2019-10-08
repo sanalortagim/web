@@ -7,6 +7,17 @@
     <atom:link href="http://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
+        <title>Algoritma ve Programlamaya Hazırlık</title>
+        <description></description>
+        <pubDate>08/10/2019</pubDate>
+        <link>http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik/</link>
+        <guid isPermaLink="true">http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik/</guid>
+        
+        <category>programlama-temelleri</category>
+        
+      </item>
+    
+      <item>
         <title>Cisco Packet Tracer İndirme Bağlantıları</title>
         <description></description>
         <pubDate>05/10/2019</pubDate>

@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Algoritma ve Programlamaya Hazırlık",
+      "tags"     : "#programlama-temelleri",
+      "categories" : "programlama-temelleri",
+      "url"      : "/algoritma-ve-programlamaya-hazirlik/",
+      "date"     : "08/10/2019"
+    } ,
+  
+    {
       "title"    : "Cisco Packet Tracer İndirme Bağlantıları",
       "tags"     : "#ag-isletmenligi and #bilisim-teknolojileri",
       "categories" : "ag-isletmenligi",
