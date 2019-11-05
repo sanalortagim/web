@@ -7,11 +7,22 @@
     <atom:link href="http://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
+        <title>Algoritma ve Akış Diyagramı Sembolleri</title>
+        <description></description>
+        <pubDate>23/10/2019</pubDate>
+        <link>http://arifsaban.com.tr/algoritma-ve-akis-diyagrami-sembolleri/</link>
+        <guid isPermaLink="true">http://arifsaban.com.tr/algoritma-ve-akis-diyagrami-sembolleri/</guid>
+        
+        <category>programlama-temelleri</category>
+        
+      </item>
+    
+      <item>
         <title>Algoritma ve Programlamaya Hazırlık</title>
         <description></description>
         <pubDate>08/10/2019</pubDate>
-        <link>http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik/</link>
-        <guid isPermaLink="true">http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik/</guid>
+        <link>http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik-Kopya/</link>
+        <guid isPermaLink="true">http://arifsaban.com.tr/algoritma-ve-programlamaya-hazirlik-Kopya/</guid>
         
         <category>programlama-temelleri</category>
         
