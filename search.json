@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek",
+      "tags"     : "t-sql",
+      "categories" : "t-sql",
+      "url"      : "/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/",
+      "date"     : "30/11/2019"
+    } ,
+  
+    {
       "title"    : "Algoritma ve Akış Diyagramı Sembolleri",
       "tags"     : "programlama-temelleri",
       "categories" : "programlama-temelleri",
