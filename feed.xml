@@ -7,6 +7,17 @@
     <atom:link href="https://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
+        <title>T-SQL Not Puanlama Örneği</title>
+        <description></description>
+        <pubDate>30/11/2019</pubDate>
+        <link>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</link>
+        <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</guid>
+        
+        <category>t-sql</category>
+        
+      </item>
+    
+      <item>
         <title>T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek</title>
         <description></description>
         <pubDate>30/11/2019</pubDate>

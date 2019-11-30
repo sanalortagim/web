@@ -9,6 +9,7 @@ Disallow: /iletisim
 Disallow: /etiketler
 Disallow: /kategori
 Disallow: /gizlilik-politikasi
+Disallow: /sayfa/
 
 User-agent: ia_archiver
 Disallow: /

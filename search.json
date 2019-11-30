@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "T-SQL Not Puanlama Örneği",
+      "tags"     : "t-sql",
+      "categories" : "t-sql",
+      "url"      : "/t-sql-not-puanlama-ornegi/",
+      "date"     : "30/11/2019"
+    } ,
+  
+    {
       "title"    : "T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek",
       "tags"     : "t-sql",
       "categories" : "t-sql",
