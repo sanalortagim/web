@@ -38,10 +38,6 @@
         </url>
     
         <url>
-            <loc>https://arifsaban.com.tr/iletisim/mesaj-gonder/</loc>
-        </url>
-    
-        <url>
             <loc>https://arifsaban.com.tr/assets/img/icons/preloader.svg</loc>
         </url>
     
@@ -78,6 +74,10 @@
         </url>
     
     
+        <url>
+            <loc>https://arifsaban.com.tr/en-iyi-ag-sorun-giderme-araclari/</loc>
+        </url>
+  
         <url>
             <loc>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</loc>
         </url>
