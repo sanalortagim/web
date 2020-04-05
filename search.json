@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Linux SteamCMD Kurulumu",
+      "tags"     : "",
+      "categories" : "",
+      "url"      : "/steamcmd-kurulumu/",
+      "date"     : "05/04/2020"
+    } ,
+  
+    {
       "title"    : "Windows 8 Hyper-V Kurulumu",
       "tags"     : "",
       "categories" : "windows",
@@ -98,7 +106,7 @@
   
     {
       "title"    : "Firewall Nedir ?",
-      "tags"     : "bt",
+      "tags"     : "",
       "categories" : "bilisim-teknolojileri",
       "url"      : "/firewall-nedir/",
       "date"     : "20/07/2019"
