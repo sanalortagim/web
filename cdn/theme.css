@@ -179,7 +179,7 @@ section.recent-posts {
 	padding-left:0;
 }
 .listfeaturedtag h2.card-title,.listrecent h2.card-title {
-	font-size:1.3rem;
+	font-size:15px;
 	font-weight:500;
 	line-height: 1.25;
 }
