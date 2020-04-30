@@ -1,0 +1,20 @@
+<settings>
+	<color r="0" g="180" b="255"/><!-- Radio label color -->
+	<font>sa-header</font><!-- Radio label font -->
+	<realism enabled="false"/><!-- true: Everybody in the same vehicle will listen to the same radio station/false: Everybody in the same vehicle can listen to his own prefered radio station -->
+	<stations><!-- Radio stations. To add one: <station name="[name here]" URL="[URL here]"/> -->
+		<station name="Park FM" URL="http://park.netradyom.com:1345"/>
+		<station name="Radyo Seymen" URL="http://213.128.77.142:8050/"/>
+		<station name="Kral FM" URL="http://kralsc.radyotvonline.com/listen.pls"/>
+		<station name="Slow Turk" URL="http://radyo.dogannet.tv/slowturk"/>
+		<station name="Power Turk" URL="http://icast.powergroup.com.tr/PowerTurk/mpeg/128/home"/>
+		<station name="Joy Fm" URL="http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls"/>
+		<station name="Joy Turk" URL="http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls"/>
+		<station name="Joy Turk Rock" URL="http://provisioning.streamtheworld.com/pls/JOYTURK_ROCKAAC.pls"/>
+		<station name="Metro FM" URL="http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls"/>
+		<station name="Electro FM" URL="http://stream.electroradio.ch:26630"/>
+		<station name="Pal Station" URL="http://77.223.136.16:1860"/>
+		<station name="Number Oone FM" URL="http://sh.mncdn.com:8092/listen.pls"/>
+		<station name="My Donese" URL="http://provisioning.streamtheworld.com/pls/RADIO_MYDONOSEAAC.pls"/>
+	</stations>
+</settings>
