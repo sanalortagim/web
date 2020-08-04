@@ -35,7 +35,7 @@
     {
       "title"    : "Windows 8 Hyper-V Kurulumu",
       "tags"     : "",
-      "categories" : "windows",
+      "categories" : "",
       "url"      : "/windows-8-hyper-v-kurulumu/",
       "date"     : "20/02/2020"
     } ,
@@ -43,7 +43,7 @@
     {
       "title"    : "Ağ Sorunları İçin Ücretsiz En İyi Araçlar",
       "tags"     : "",
-      "categories" : "bilisim-teknolojileri",
+      "categories" : "",
       "url"      : "/en-iyi-ag-sorun-giderme-araclari/",
       "date"     : "17/01/2020"
     } ,
@@ -66,56 +66,56 @@
   
     {
       "title"    : "Cisco Packet Tracer İndirme Bağlantıları",
-      "tags"     : "bt",
-      "categories" : "ag-isletmenligi",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/cisco-packet-tracer/",
       "date"     : "05/10/2019"
     } ,
   
     {
       "title"    : "Network Tipleri",
-      "tags"     : "bt",
-      "categories" : "bilisim-teknolojileri",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/network-tipleri/",
       "date"     : "02/08/2019"
     } ,
   
     {
       "title"    : "Network Nedir ?",
-      "tags"     : "bt",
-      "categories" : "bilisim-teknolojileri",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/network-nedir/",
       "date"     : "02/08/2019"
     } ,
   
     {
       "title"    : "Linux SSH Portu Değiştirme",
-      "tags"     : "linux",
-      "categories" : "linux",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/linux-ssh-portu-degistirme/",
       "date"     : "29/07/2019"
     } ,
   
     {
       "title"    : "Centos Wget Kurulumu",
-      "tags"     : "linux",
-      "categories" : "linux",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/centos-wget-kurulumu/",
       "date"     : "27/07/2019"
     } ,
   
     {
       "title"    : "Centos Update Komutu",
-      "tags"     : "linux",
-      "categories" : "linux",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/centos-update-komutu/",
       "date"     : "27/07/2019"
     } ,
   
     {
       "title"    : "No Such File or Directory Hatası ve Çözümü",
-      "tags"     : "linux",
-      "categories" : "linux",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/",
       "date"     : "25/07/2019"
     } ,
