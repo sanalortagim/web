@@ -3,15 +3,15 @@
   <channel>
     <title></title>
     <description>Computer Technologies</description>
-    <link>https://arifsaban.com.tr/</link>
-    <atom:link href="https://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
     
       <item>
         <title>Alternatif Disk Temizleme Aracı</title>
         <description></description>
         <pubDate>27/07/2020</pubDate>
-        <link>https://arifsaban.com.tr/ccleaner-alternatifi-disk-temizleme-araci/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/ccleaner-alternatifi-disk-temizleme-araci/</guid>
+        <link>http://localhost:4000/ccleaner-alternatifi-disk-temizleme-araci/</link>
+        <guid isPermaLink="true">http://localhost:4000/ccleaner-alternatifi-disk-temizleme-araci/</guid>
         
         <category>windows</category>
         
@@ -21,8 +21,8 @@
         <title>Word Dosyasını Pdf Uzantılı Kaydetmek</title>
         <description></description>
         <pubDate>13/06/2020</pubDate>
-        <link>https://arifsaban.com.tr/word-dosyasini-pdf-olarak-kaydetmek/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/word-dosyasini-pdf-olarak-kaydetmek/</guid>
+        <link>http://localhost:4000/word-dosyasini-pdf-olarak-kaydetmek/</link>
+        <guid isPermaLink="true">http://localhost:4000/word-dosyasini-pdf-olarak-kaydetmek/</guid>
         
         <category>bilisim-teknolojileri</category>
         
@@ -32,8 +32,8 @@
         <title>Server Data Tools Rule Check Result Hatası</title>
         <description></description>
         <pubDate>09/04/2020</pubDate>
-        <link>https://arifsaban.com.tr/server-data-tools-rule-check-result-hatasi/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/server-data-tools-rule-check-result-hatasi/</guid>
+        <link>http://localhost:4000/server-data-tools-rule-check-result-hatasi/</link>
+        <guid isPermaLink="true">http://localhost:4000/server-data-tools-rule-check-result-hatasi/</guid>
         
         <category>bilisim-teknolojileri</category>
         
@@ -43,8 +43,8 @@
         <title>Linux SteamCMD Kurulumu</title>
         <description></description>
         <pubDate>05/04/2020</pubDate>
-        <link>https://arifsaban.com.tr/steamcmd-kurulumu/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/steamcmd-kurulumu/</guid>
+        <link>http://localhost:4000/steamcmd-kurulumu/</link>
+        <guid isPermaLink="true">http://localhost:4000/steamcmd-kurulumu/</guid>
         
         <category>linux</category>
         
@@ -54,8 +54,8 @@
         <title>Windows 8 Hyper-V Kurulumu</title>
         <description></description>
         <pubDate>20/02/2020</pubDate>
-        <link>https://arifsaban.com.tr/windows-8-hyper-v-kurulumu/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/windows-8-hyper-v-kurulumu/</guid>
+        <link>http://localhost:4000/windows-8-hyper-v-kurulumu/</link>
+        <guid isPermaLink="true">http://localhost:4000/windows-8-hyper-v-kurulumu/</guid>
         
         <category>windows</category>
         
@@ -65,8 +65,8 @@
         <title>Ağ Sorunları İçin Ücretsiz En İyi Araçlar</title>
         <description></description>
         <pubDate>17/01/2020</pubDate>
-        <link>https://arifsaban.com.tr/en-iyi-ag-sorun-giderme-araclari/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/en-iyi-ag-sorun-giderme-araclari/</guid>
+        <link>http://localhost:4000/en-iyi-ag-sorun-giderme-araclari/</link>
+        <guid isPermaLink="true">http://localhost:4000/en-iyi-ag-sorun-giderme-araclari/</guid>
         
         <category>bilisim-teknolojileri</category>
         
@@ -76,8 +76,8 @@
         <title>T-SQL Not Puanlama Örneği</title>
         <description></description>
         <pubDate>30/11/2019</pubDate>
-        <link>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</guid>
+        <link>http://localhost:4000/t-sql-not-puanlama-ornegi/</link>
+        <guid isPermaLink="true">http://localhost:4000/t-sql-not-puanlama-ornegi/</guid>
         
         <category>t-sql</category>
         
@@ -87,8 +87,8 @@
         <title>T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek</title>
         <description></description>
         <pubDate>30/11/2019</pubDate>
-        <link>https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</guid>
+        <link>http://localhost:4000/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</link>
+        <guid isPermaLink="true">http://localhost:4000/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</guid>
         
         <category>t-sql</category>
         
@@ -98,8 +98,8 @@
         <title>Cisco Packet Tracer İndirme Bağlantıları</title>
         <description></description>
         <pubDate>05/10/2019</pubDate>
-        <link>https://arifsaban.com.tr/cisco-packet-tracer/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/cisco-packet-tracer/</guid>
+        <link>http://localhost:4000/cisco-packet-tracer/</link>
+        <guid isPermaLink="true">http://localhost:4000/cisco-packet-tracer/</guid>
         
         <category>ag-isletmenligi</category>
         
@@ -109,8 +109,8 @@
         <title>Network Tipleri</title>
         <description></description>
         <pubDate>02/08/2019</pubDate>
-        <link>https://arifsaban.com.tr/network-tipleri/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/network-tipleri/</guid>
+        <link>http://localhost:4000/network-tipleri/</link>
+        <guid isPermaLink="true">http://localhost:4000/network-tipleri/</guid>
         
         <category>bilisim-teknolojileri</category>
         
@@ -120,8 +120,8 @@
         <title>Network Nedir ?</title>
         <description></description>
         <pubDate>02/08/2019</pubDate>
-        <link>https://arifsaban.com.tr/network-nedir/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/network-nedir/</guid>
+        <link>http://localhost:4000/network-nedir/</link>
+        <guid isPermaLink="true">http://localhost:4000/network-nedir/</guid>
         
         <category>bilisim-teknolojileri</category>
         
@@ -131,8 +131,8 @@
         <title>Linux SSH Portu Değiştirme</title>
         <description>Linux SSH Varsayılan Portu Nasıl Değiştirebiliriz ?</description>
         <pubDate>29/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/linux-ssh-portu-degistirme/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/linux-ssh-portu-degistirme/</guid>
+        <link>http://localhost:4000/linux-ssh-portu-degistirme/</link>
+        <guid isPermaLink="true">http://localhost:4000/linux-ssh-portu-degistirme/</guid>
         
         <category>linux</category>
         
@@ -142,8 +142,8 @@
         <title>Centos Wget Kurulumu</title>
         <description>Wget kurulumu nasıl yapılır ? Wget kurulum kodu nedir ?</description>
         <pubDate>27/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/centos-wget-kurulumu/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/centos-wget-kurulumu/</guid>
+        <link>http://localhost:4000/centos-wget-kurulumu/</link>
+        <guid isPermaLink="true">http://localhost:4000/centos-wget-kurulumu/</guid>
         
         <category>linux</category>
         
@@ -153,8 +153,8 @@
         <title>Centos Update Komutu</title>
         <description>Centos sistemimizi nasıl güncelleştirebiliriz ? Komutu Nedir ?</description>
         <pubDate>27/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/centos-update-komutu/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/centos-update-komutu/</guid>
+        <link>http://localhost:4000/centos-update-komutu/</link>
+        <guid isPermaLink="true">http://localhost:4000/centos-update-komutu/</guid>
         
         <category>linux</category>
         
@@ -164,8 +164,8 @@
         <title>No Such File or Directory Hatası ve Çözümü</title>
         <description>Linuxda her an karşılaşabileceğimiz bir sorundur. Bu hatanın çıkmasının sebebi sisteminiz 64 bit olmasıdır. Çalıştıracağınız uygulama 32 bit vasıtası ile çalışıyordur. Bu yüzden çalıştırmayacaktır bunun çözümünü göstereceğiz.</description>
         <pubDate>25/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</guid>
+        <link>http://localhost:4000/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</link>
+        <guid isPermaLink="true">http://localhost:4000/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</guid>
         
         <category>linux</category>
         
@@ -175,8 +175,8 @@
         <title>Sosyal Medya Saldırılarına Alınabilecek Önlemler</title>
         <description>Kimse çevrimiçi sanal internet aleminden gelen tehditlerden korunmaz.Bu sebepten önlem olarak alabileceğimiz durumları adım adım belirtmeye çalıştık.</description>
         <pubDate>24/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</guid>
+        <link>http://localhost:4000/sosyal-medya-saldirilarina-alinabilecek-onlemler/</link>
+        <guid isPermaLink="true">http://localhost:4000/sosyal-medya-saldirilarina-alinabilecek-onlemler/</guid>
         
         <category>guvenlik</category>
         
@@ -186,8 +186,8 @@
         <title>Firewall Nedir ?</title>
         <description>Firewall Güvenlik Duvarı bir hayli değişik filtreleme özelliği ile bilgisayar ve ağın gelen ve giden paketler olmak üzere internet trafiğini kontrol altında tutmaktadır.. İp filtreleme, Port Filtreleme, Web Fitreleme, içerik filtreleme bunlardan birkaçıdır.</description>
         <pubDate>20/07/2019</pubDate>
-        <link>https://arifsaban.com.tr/firewall-nedir/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/firewall-nedir/</guid>
+        <link>http://localhost:4000/firewall-nedir/</link>
+        <guid isPermaLink="true">http://localhost:4000/firewall-nedir/</guid>
         
         <category>bilisim-teknolojileri</category>
         
