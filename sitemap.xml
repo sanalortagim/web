@@ -6,27 +6,15 @@
         </url>
     
         <url>
-            <loc>https://arifsaban.com.tr/feed.xml</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/iletisim/</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/search.json</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/sitemap.xml</loc>
-        </url>
-    
-        <url>
             <loc>https://arifsaban.com.tr/kategori/bilisim-teknolojileri/</loc>
+        </url>
+    
+        <url>
+            <loc>https://arifsaban.com.tr/kategoriler/</loc>
+        </url>
+    
+        <url>
+            <loc>https://arifsaban.com.tr/feed.xml</loc>
         </url>
     
         <url>
@@ -34,15 +22,31 @@
         </url>
     
         <url>
+            <loc>https://arifsaban.com.tr/</loc>
+        </url>
+    
+        <url>
             <loc>https://arifsaban.com.tr/kategori/linux/</loc>
         </url>
     
         <url>
-            <loc>https://arifsaban.com.tr/kategori/bilisim-teknolojileri/</loc>
+            <loc>https://arifsaban.com.tr/search.json</loc>
         </url>
     
         <url>
-            <loc>https://arifsaban.com.tr/kategori/t-sql/</loc>
+            <loc>https://arifsaban.com.tr/ara/</loc>
+        </url>
+    
+        <url>
+            <loc>https://arifsaban.com.tr/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>https://arifsaban.com.tr/style.css</loc>
+        </url>
+    
+        <url>
+            <loc>https://arifsaban.com.tr/kategori/webmaster/</loc>
         </url>
     
         <url>
@@ -51,18 +55,6 @@
     
         <url>
             <loc>https://arifsaban.com.tr/sayfa/2/</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/sayfa/3/</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/sayfa/4/</loc>
-        </url>
-    
-        <url>
-            <loc>https://arifsaban.com.tr/sayfa/5/</loc>
         </url>
     
     
@@ -91,11 +83,11 @@
         </url>
   
         <url>
-            <loc>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</loc>
+            <loc>https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</loc>
         </url>
   
         <url>
-            <loc>https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</loc>
+            <loc>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</loc>
         </url>
   
         <url>

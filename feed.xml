@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Computer Technologies</description>
+    <description>Bilgisayar Teknolojileri</description>
     <link>https://arifsaban.com.tr/</link>
     <atom:link href="https://arifsaban.com.tr/feed.xml" rel="self" type="application/rss+xml"/>
     
@@ -73,24 +73,24 @@
       </item>
     
       <item>
-        <title>T-SQL Not Puanlama Örneği</title>
-        <description></description>
-        <pubDate>30/11/2019</pubDate>
-        <link>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</link>
-        <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</guid>
-        
-        <category>t-sql</category>
-        
-      </item>
-    
-      <item>
         <title>T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek</title>
         <description></description>
         <pubDate>30/11/2019</pubDate>
         <link>https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/</guid>
         
-        <category>t-sql</category>
+        <category>T-Sql</category>
+        
+      </item>
+    
+      <item>
+        <title>T-SQL Not Puanlama Örneği</title>
+        <description></description>
+        <pubDate>30/11/2019</pubDate>
+        <link>https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</link>
+        <guid isPermaLink="true">https://arifsaban.com.tr/t-sql-not-puanlama-ornegi/</guid>
+        
+        <category>T-Sql</category>
         
       </item>
     
@@ -129,7 +129,7 @@
     
       <item>
         <title>Linux SSH Portu Değiştirme</title>
-        <description>Linux SSH Varsayılan Portu Nasıl Değiştirebiliriz ?</description>
+        <description></description>
         <pubDate>29/07/2019</pubDate>
         <link>https://arifsaban.com.tr/linux-ssh-portu-degistirme/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/linux-ssh-portu-degistirme/</guid>
@@ -140,7 +140,7 @@
     
       <item>
         <title>Centos Wget Kurulumu</title>
-        <description>Wget kurulumu nasıl yapılır ? Wget kurulum kodu nedir ?</description>
+        <description></description>
         <pubDate>27/07/2019</pubDate>
         <link>https://arifsaban.com.tr/centos-wget-kurulumu/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/centos-wget-kurulumu/</guid>
@@ -151,7 +151,7 @@
     
       <item>
         <title>Centos Update Komutu</title>
-        <description>Centos sistemimizi nasıl güncelleştirebiliriz ? Komutu Nedir ?</description>
+        <description></description>
         <pubDate>27/07/2019</pubDate>
         <link>https://arifsaban.com.tr/centos-update-komutu/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/centos-update-komutu/</guid>
@@ -162,7 +162,7 @@
     
       <item>
         <title>No Such File or Directory Hatası ve Çözümü</title>
-        <description>Linuxda her an karşılaşabileceğimiz bir sorundur. Bu hatanın çıkmasının sebebi sisteminiz 64 bit olmasıdır. Çalıştıracağınız uygulama 32 bit vasıtası ile çalışıyordur. Bu yüzden çalıştırmayacaktır bunun çözümünü göstereceğiz.</description>
+        <description></description>
         <pubDate>25/07/2019</pubDate>
         <link>https://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/</guid>
@@ -173,7 +173,7 @@
     
       <item>
         <title>Sosyal Medya Saldırılarına Alınabilecek Önlemler</title>
-        <description>Kimse çevrimiçi sanal internet aleminden gelen tehditlerden korunmaz.Bu sebepten önlem olarak alabileceğimiz durumları adım adım belirtmeye çalıştık.</description>
+        <description></description>
         <pubDate>24/07/2019</pubDate>
         <link>https://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/sosyal-medya-saldirilarina-alinabilecek-onlemler/</guid>
@@ -184,12 +184,12 @@
     
       <item>
         <title>Firewall Nedir ?</title>
-        <description>Firewall Güvenlik Duvarı bir hayli değişik filtreleme özelliği ile bilgisayar ve ağın gelen ve giden paketler olmak üzere internet trafiğini kontrol altında tutmaktadır.. İp filtreleme, Port Filtreleme, Web Fitreleme, içerik filtreleme bunlardan birkaçıdır.</description>
+        <description></description>
         <pubDate>20/07/2019</pubDate>
         <link>https://arifsaban.com.tr/firewall-nedir/</link>
         <guid isPermaLink="true">https://arifsaban.com.tr/firewall-nedir/</guid>
         
-        <category>bilisim-teknolojileri</category>
+        <category>Bilisim-Teknolojileri</category>
         
       </item>
     

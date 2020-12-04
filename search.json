@@ -1,7 +1,7 @@
 [
   
     {
-      "title"    : "Alternatif Disk Temizleme Aracı",
+      "title"    : "• Alternatif Disk Temizleme Aracı",
       "tags"     : "",
       "categories" : "",
       "url"      : "/ccleaner-alternatifi-disk-temizleme-araci/",
@@ -9,7 +9,7 @@
     } ,
   
     {
-      "title"    : "Word Dosyasını Pdf Uzantılı Kaydetmek",
+      "title"    : "• Word Dosyasını Pdf Uzantılı Kaydetmek",
       "tags"     : "",
       "categories" : "",
       "url"      : "/word-dosyasini-pdf-olarak-kaydetmek/",
@@ -17,7 +17,7 @@
     } ,
   
     {
-      "title"    : "Server Data Tools Rule Check Result Hatası",
+      "title"    : "• Server Data Tools Rule Check Result Hatası",
       "tags"     : "",
       "categories" : "",
       "url"      : "/server-data-tools-rule-check-result-hatasi/",
@@ -25,7 +25,7 @@
     } ,
   
     {
-      "title"    : "Linux SteamCMD Kurulumu",
+      "title"    : "• Linux SteamCMD Kurulumu",
       "tags"     : "",
       "categories" : "",
       "url"      : "/steamcmd-kurulumu/",
@@ -33,7 +33,7 @@
     } ,
   
     {
-      "title"    : "Windows 8 Hyper-V Kurulumu",
+      "title"    : "• Windows 8 Hyper-V Kurulumu",
       "tags"     : "",
       "categories" : "",
       "url"      : "/windows-8-hyper-v-kurulumu/",
@@ -41,7 +41,7 @@
     } ,
   
     {
-      "title"    : "Ağ Sorunları İçin Ücretsiz En İyi Araçlar",
+      "title"    : "• Ağ Sorunları İçin Ücretsiz En İyi Araçlar",
       "tags"     : "",
       "categories" : "",
       "url"      : "/en-iyi-ag-sorun-giderme-araclari/",
@@ -49,23 +49,23 @@
     } ,
   
     {
-      "title"    : "T-SQL Not Puanlama Örneği",
-      "tags"     : "t-sql",
-      "categories" : "t-sql",
-      "url"      : "/t-sql-not-puanlama-ornegi/",
-      "date"     : "30/11/2019"
-    } ,
-  
-    {
-      "title"    : "T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek",
-      "tags"     : "t-sql",
-      "categories" : "t-sql",
+      "title"    : "• T-SQL Sayının Tek veya Çift Olduğunu Bulan Örnek",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/t-sql-sayinin-tek-cift-oldugunu-bulan-ornek/",
       "date"     : "30/11/2019"
     } ,
   
     {
-      "title"    : "Cisco Packet Tracer İndirme Bağlantıları",
+      "title"    : "• T-SQL Not Puanlama Örneği",
+      "tags"     : "",
+      "categories" : "",
+      "url"      : "/t-sql-not-puanlama-ornegi/",
+      "date"     : "30/11/2019"
+    } ,
+  
+    {
+      "title"    : "• Cisco Packet Tracer İndirme Bağlantıları",
       "tags"     : "",
       "categories" : "",
       "url"      : "/cisco-packet-tracer/",
@@ -73,7 +73,7 @@
     } ,
   
     {
-      "title"    : "Network Tipleri",
+      "title"    : "• Network Tipleri",
       "tags"     : "",
       "categories" : "",
       "url"      : "/network-tipleri/",
@@ -81,7 +81,7 @@
     } ,
   
     {
-      "title"    : "Network Nedir ?",
+      "title"    : "• Network Nedir ?",
       "tags"     : "",
       "categories" : "",
       "url"      : "/network-nedir/",
@@ -89,7 +89,7 @@
     } ,
   
     {
-      "title"    : "Linux SSH Portu Değiştirme",
+      "title"    : "• Linux SSH Portu Değiştirme",
       "tags"     : "",
       "categories" : "",
       "url"      : "/linux-ssh-portu-degistirme/",
@@ -97,7 +97,7 @@
     } ,
   
     {
-      "title"    : "Centos Wget Kurulumu",
+      "title"    : "• Centos Wget Kurulumu",
       "tags"     : "",
       "categories" : "",
       "url"      : "/centos-wget-kurulumu/",
@@ -105,7 +105,7 @@
     } ,
   
     {
-      "title"    : "Centos Update Komutu",
+      "title"    : "• Centos Update Komutu",
       "tags"     : "",
       "categories" : "",
       "url"      : "/centos-update-komutu/",
@@ -113,7 +113,7 @@
     } ,
   
     {
-      "title"    : "No Such File or Directory Hatası ve Çözümü",
+      "title"    : "• No Such File or Directory Hatası ve Çözümü",
       "tags"     : "",
       "categories" : "",
       "url"      : "/bad-elf-interpreter-no-such-file-or-directory-hatasi-ve-cozumu/",
@@ -121,7 +121,7 @@
     } ,
   
     {
-      "title"    : "Sosyal Medya Saldırılarına Alınabilecek Önlemler",
+      "title"    : "• Sosyal Medya Saldırılarına Alınabilecek Önlemler",
       "tags"     : "",
       "categories" : "",
       "url"      : "/sosyal-medya-saldirilarina-alinabilecek-onlemler/",
@@ -129,9 +129,9 @@
     } ,
   
     {
-      "title"    : "Firewall Nedir ?",
+      "title"    : "• Firewall Nedir ?",
       "tags"     : "",
-      "categories" : "bilisim-teknolojileri",
+      "categories" : "",
       "url"      : "/firewall-nedir/",
       "date"     : "20/07/2019"
     } 

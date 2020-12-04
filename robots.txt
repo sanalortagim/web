@@ -8,6 +8,7 @@ Disallow: /hakkimda
 Disallow: /iletisim
 Disallow: /etiketler
 Disallow: /kategori
+Disallow: /kategoriler
 Disallow: /gizlilik-politikasi
 Disallow: /sayfa/
 
